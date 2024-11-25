@@ -1,12 +1,13 @@
 import React from "react";
 import Link from "next/link";
+import Image from"next/Image";
 
 const Navbar = () => {
   return (
     <div className="bg-slate-300 w-full h-[120px]">
       <div className="flex justify-between items-center h-full px-4">
         <div>
-          <img 
+          <Image
             src="https://media.licdn.com/dms/image/v2/D5603AQF9gDrKw4aZQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719259376825?e=1735171200&v=beta&t=wUTA8vH197o6KgWV2Ifeb4db9qPbYNbuP8cNjIVSOTY"
             alt="logo"
             width={100}
