@@ -21,7 +21,7 @@ export default function Home() {
           With a passion for learning and staying updated on the latest technologies, I continuously strive to enhance my skills and expand my knowledge. I believe in the power of collaboration and creativity, and I am excited to connect with like-minded individuals and potential clients.
         </p>
         <p className="text-lg text-gray-300 mb-2">
-          Take a look at my website and feel free to reach out if you have any questions or opportunities for collaboration. Let's create something amazing together!
+          Take a look at my website and feel free to reach out if you have any questions or opportunities for collaboration. Let create something amazing together!
         </p>
       </div>
     </div>
